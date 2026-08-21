@@ -1,1 +1,0 @@
-conda activate /home/s7579/miniconda3/envs/mini-rag-app
