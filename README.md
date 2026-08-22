@@ -66,5 +66,11 @@ OPENAI_API_KEY=your_api_key_here
 
 Replace `your_api_key_here` with your actual OpenAI API key.
 
+## Run the FastAPI server
+
+```bash
+$ uvicorn main app:app --reload --host 0.0.0.0 --port 5000
+```
+
 
 
